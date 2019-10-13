@@ -16,7 +16,7 @@ Specifically, the recorded audio is used only to detect and visualize the voice 
   pitch of the notes that you sing. These notes are displayed on the screen and used to adjust your 'vocal range' setting.
 
 * On the app exercise training screen when you start the melody playback (either by pressing
-  the 'Start' button or pressing one of the musical keyboard keys). Audio recording automatically stops when the melody
+  the 'Play' button or pressing one of the musical keyboard keys). Audio recording automatically stops when the melody
   playback stops. The recorded audio is used to detect the pitch of the notes that you sing which are used
   to visualize them over the played exercise melody notes.
 
