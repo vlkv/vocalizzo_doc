@@ -1,5 +1,7 @@
 # Vocalizzo Documentation
 
+[Release Notes](/release_notes.md)
+
 ## Privacy Policy
 
 * [Vocalizzo](/vocalizzo_privacy_policy.md)
