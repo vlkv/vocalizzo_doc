@@ -1,6 +1,6 @@
 # Vocalizzo Documentation
 
-# Privacy Policy
+## Privacy Policy
 
 * [Vocalizzo](/vocalizzo_privacy_policy.md)
 * [Vocalizzo Lite](/vocalizzo_lite_privacy_policy.md)
