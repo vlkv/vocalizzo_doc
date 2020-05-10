@@ -9,15 +9,15 @@ To start the 'Pitch Monitor' go to the '3 vertical dots' menu (top right corner)
 tap on the 'Pitch Monitor' menu item:
 
 <p>
-<img src="/pitch_monitor/three_dots_menu.jpg" height="324">
-<img src="/pitch_monitor/pitch_monitor_menu_item.jpg" height="324">
-<img src="/pitch_monitor/pitch_monitor_started.jpg" height="324">
+<img src="pitch_monitor/three_dots_menu.jpg" height="324">
+<img src="pitch_monitor/pitch_monitor_menu_item.jpg" height="324">
+<img src="pitch_monitor/pitch_monitor_started.jpg" height="324">
 </p>
 
 Tap the microphone button and sing something. You will see the visualization of your singing right away, something like this:
 
 <p>
-<img src="/pitch_monitor/pitch_monitor_some_singing.jpg" height="324">
+<img src="pitch_monitor/pitch_monitor_some_singing.jpg" height="324">
 </p>
 
 ## The 'Vocal Slide' exercise
@@ -25,14 +25,14 @@ Make an 'e-e-e' or 'o-o-oh' (or any comfortable to you) sound and gradually slid
 about a two-octave range. Slide up and then back down. Here is what I've done:
 
 <p>
-<img src="/pitch_monitor/slide.jpg" height="324">
+<img src="pitch_monitor/slide.jpg" height="324">
 </p>
 
 ## The 'Siren' exercise
 Imitate a siren of an emergency vehicle. Something like this:
 
 <p>
-<img src="/pitch_monitor/siren.jpg" height="324">
+<img src="pitch_monitor/siren.jpg" height="324">
 </p>
 
 ## Conclusion
