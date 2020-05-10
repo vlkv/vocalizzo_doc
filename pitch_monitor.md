@@ -23,7 +23,7 @@ Tap the microphone button and sing something. You will see the visualization of 
 ## The 'Vocal Slide' exercise
 Make an 'e-e-e' or 'o-o-oh' (or any comfortable to you) sound and gradually slide through the notes of 
 about a two-octave range. Slide up and then back down. Here is what I've done:
-009
+
 <p>
 <img src="/pitch_monitor/slide.jpg" height="324">
 </p>
