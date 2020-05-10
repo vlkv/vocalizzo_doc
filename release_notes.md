@@ -1,3 +1,5 @@
+# Release Notes
+
 ## 1.12-43 (4 May 2020)
 Fixed crash in native pitch detector wrapper code.
 
