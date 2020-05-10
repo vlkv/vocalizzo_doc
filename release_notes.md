@@ -1,5 +1,10 @@
 ## Release Notes
 
+### 2.0-44 (10 May 2020)
+* 'Pitch Monitor' tool. On main screen go to the '3 vertical dots' menu, then tap 'Pitch Monitor'. Have fun!
+* 'What's New' dialog. It will show up once during startup after updating the Vocalizzo app on the device.
+* Minor improvements of 'Privacy Policy' and 'About' dialogs.
+
 ### 1.12-43 (4 May 2020)
 Fixed crash in native pitch detector wrapper code.
 
