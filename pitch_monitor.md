@@ -7,6 +7,7 @@ explain what can you do with it.
 ## How to start it
 To start the 'Pitch Monitor' go to the '3 vertical dots' menu (top right corner) on the main Vocalizzo screen and
 tap on the 'Pitch Monitor' menu item:
+![Three dots menu](pitch_monitor/three_dots_menu.jpg){:height="324px"}.
 
 <p>
 <img src="vocalizzo_doc/pitch_monitor/three_dots_menu.jpg" height="324">
