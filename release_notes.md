@@ -1,7 +1,7 @@
 ## Release Notes
 
 ### 2.0-44 (10 May 2020)
-* 'Pitch Monitor' tool. On main screen go to the '3 vertical dots' menu, then tap 'Pitch Monitor'. Have fun!
+* '[Pitch Monitor](https://vlkv.github.io/vocalizzo_doc/pitch_monitor.html)' tool. On main screen go to the '3 vertical dots' menu, then tap 'Pitch Monitor'. Have fun!
 * 'What's New' dialog. It will show up once during startup after updating the Vocalizzo app on the device.
 * Minor improvements of 'Privacy Policy' and 'About' dialogs.
 
