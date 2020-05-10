@@ -1,6 +1,7 @@
 # Vocalizzo Documentation
 
-[Release Notes](/release_notes.md)
+* [Pitch Monitor](/pitch_monitor.md)
+* [Release Notes](/release_notes.md)
 
 ## Privacy Policy
 
