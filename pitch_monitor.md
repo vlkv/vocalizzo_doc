@@ -36,4 +36,4 @@ Imitate a siren of an emergency vehicle. Something like this:
 </p>
 
 There are tons of variations of Siren/Slide exercises, search YouTube for detailed explanation of them. And I hope that 
-Vocalizzo's Pitch Monitor will help you and will make your exercises more of a fun!
+Vocalizzo's Pitch Monitor will help you and will make your exercises more fun!
