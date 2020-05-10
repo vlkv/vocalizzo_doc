@@ -2,9 +2,7 @@
 
 ### 2.0-45 (10 May 2020)
 * Pitch Monitor tool which is great for vocal sirens and slides. It is located in Main menu -> Pitch Monitor. Read [more](https://vlkv.github.io/vocalizzo_doc/pitch_monitor.html) about it, have fun!
-
 * 'What's New' dialog. It will show up once during startup after updating the Vocalizzo app on the device.
-
 * Minor improvements of Privacy Policy and About dialogs.
 
 ### 1.12-43 (4 May 2020)
