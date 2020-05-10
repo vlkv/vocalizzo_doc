@@ -16,18 +16,18 @@ Tap the microphone button and sing something. You will see the visualization of 
 
 ![](pitch_monitor/pitch_monitor_some_singing.jpg){:height="324px"}.
 
-There is a seek bar conrol to the right of the 'microphone' button which could be used to adjust the horizontal scale of the Pitch Monitor.
+There is a seek bar conrol to the right of the 'microphone' button which could be used to adjust the horizontal scale of Pitch Monitor.
 
-## 'Vocal Siren' exercise
-Vocal Siren is a great warm-up exercise. There are many variations of it. All of them sound like a siren of an emergency vehicle.
+## Vocal siren exercise
+Vocal siren is a great warm-up exercise. There are many variations of it. All of them sound like a siren of an emergency vehicle. Pitch Monitor helps you to control the smoothness and range of your sirens.
 
 For example, a siren with a long period. Make an 'e-e-e' or 'o-o-oh' (or any comfortable to you) sound and gradually slide through the notes of about a two-octave range. Slide up and then back down. Here is what I've done:
 
 ![](pitch_monitor/slide.jpg){:height="324px"}.
 
-Here is a siren with a short time period:
+A siren with a short time period:
 
 ![](pitch_monitor/siren.jpg){:height="324px"}.
 
-You may easily find detailed instructions and demos of Siren exercises in the Internet. I hope that
+You may easily find detailed instructions and demos of siren exercises in the Internet. I hope that
 Vocalizzo's Pitch Monitor will help you with your vocal training and make it more fun!
