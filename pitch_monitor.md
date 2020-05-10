@@ -6,24 +6,28 @@ explain what can you do with it.
 
 ## How to start it
 To start the 'Pitch Monitor' go to the '3 vertical dots' menu (top right corner) on the main Vocalizzo screen and
-tap on the 'Pitch Monitor' menu item. 
+tap on the 'Pitch Monitor' menu item:
 
-<menu screen>, <pitch monitor item screen>, <pitch monitor started screen>
+![](pitch_monitor/three_dots_menu.jpg){:height="324px"}.
+![](pitch_monitor/pitch_monitor_menu_item.jpg){:height="324px"}.
+![](pitch_monitor/pitch_monitor_started.jpg){:height="324px"}.
 
-Tap the microphone button and sing something. You will see the visualization of your singing, something like this:
+Tap the microphone button and sing something. You will see the visualization of your singing right away, something like this:
 
-<screenshot>.
+![](pitch_monitor/pitch_monitor_some_singing.jpg){:height="324px"}.
 
-## The 'Vocal Slide' exercise
-Make an 'e-e-e' or 'o-o-oh' (or any comfortable to you) sound and gradually slide through the notes of 
-about a two-octave range. Slide up and then back down. Here is what I've done:
+There is a seek bar conrol to the right of the 'microphone' button which could be used to adjust the horizontal scale of Pitch Monitor.
 
-<slide screenshot>
+## Vocal siren exercise
+Vocal siren is a great warm-up exercise. There are many variations of it. All of them sound like a siren of an emergency vehicle. Pitch Monitor helps you to control the smoothness and range of your sirens.
 
-## The 'Siren' exercise
-Imitate a siren of an emergency vehicle. Something like this:
+For example, a siren with a long period. Make an 'e-e-e' or 'o-o-oh' (or any comfortable to you) sound and gradually slide through the notes of about a two-octave range. Slide up and then back down. Here is what I've done:
 
-<siren screenshot>
+![](pitch_monitor/slide.jpg){:height="324px"}.
 
-There are tons of variations of Siren/Slide exercises, search YouTube for detailed explanation of them. And I hope that 
-Vocalizzo's Pitch Monitor will help you and will make your exercises more of a fun!
+A siren with a short time period:
+
+![](pitch_monitor/siren.jpg){:height="324px"}.
+
+You may easily find detailed instructions and demos of siren exercises in the Internet. I hope that
+Vocalizzo's Pitch Monitor will help you with your vocal training and make it more fun!
