@@ -1,6 +1,7 @@
 # Vocalizzo Documentation
 
 * [Pitch Monitor](/pitch_monitor.md)
+* [New Exercises and How to Find Them](/new_exercises_and_how_to_find_them.md)
 * [Release Notes](/release_notes.md)
 
 ## Privacy Policy

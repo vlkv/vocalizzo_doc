@@ -1,5 +1,9 @@
 ## Release Notes
 
+### 2.1-49 (02 Aug 2020)
+* Added some new exercises, read [more](https://vlkv.github.io/vocalizzo_doc/new_exercises_and_how_to_find_them.html) about it.
+* Implemented a tiny red "new" tag, so users could easily find the new exercises.
+
 ### 2.0-48 (11 May 2020)
 * Pitch Monitor tool which is great for vocal sirens and slides. It is located in Main menu -> Pitch Monitor. Read [more](https://vlkv.github.io/vocalizzo_doc/pitch_monitor.html) about it, have fun!
 * 'What's New' dialog. It will show up once during startup after updating the Vocalizzo app on the device.
