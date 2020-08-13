@@ -2,7 +2,7 @@
 
 Recently, I've added a 'Pitch Monitor' tool to the Vocalizzo app. This tool simply shows at real time all the notes
 that you're singing and... that's it, it does nothing more. And it is a great tool for any vocalist and I will shortly 
-explain what can you do with it.
+explain what you can do with it.
 
 ## How to start it
 To start the 'Pitch Monitor' go to the '3 vertical dots' menu (top right corner) on the main Vocalizzo screen and
