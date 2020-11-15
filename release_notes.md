@@ -1,6 +1,6 @@
 ## Release Notes
 
-## 2.2-50 (15 Nov 2020)
+### 2.2-50 (15 Nov 2020)
 Animation improvements: 
 * Notes become more bright/dark (it depends on whether dark/bright theme is used) if user sings correctly.
 * Recorded voice line becomes transparent after a while.
