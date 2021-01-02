@@ -4,7 +4,7 @@
 Animation improvements: 
 * Notes become more bright/dark (it depends on whether dark/bright theme is used) if user sings correctly.
 * Recorded voice line becomes transparent after a while.
-* Code refactoring
+* Code refactoring.
 
 ### 2.1-49 (02 Aug 2020)
 * Added some new exercises, read [more](https://vlkv.github.io/vocalizzo_doc/new_exercises_and_how_to_find_them.html) about it.
