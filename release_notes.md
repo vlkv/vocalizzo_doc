@@ -1,6 +1,6 @@
 ## Release Notes
 
-### 2.2-61 (06 Feb 2021)
+### 2.2-62 (07 Feb 2021)
 * Notes become more bright/dark (it depends on whether dark/bright theme is used) if user sings correctly.
 * Recorded voice line becomes transparent after a while.
 * Application license is validated at startup.
