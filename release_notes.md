@@ -2,6 +2,7 @@
 
 ### 2.3-64 (17 July 2021)
 * Added one new exercise Extra/Pattern CGECGEC 'Ooh' (to the paid version only).
+* Minor update to the Privacy Policy document.
 
 ### 2.3-63 (21 Mar 2021)
 * Bugfixed the Play/Pause button
