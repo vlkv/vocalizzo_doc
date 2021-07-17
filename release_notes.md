@@ -1,7 +1,7 @@
 ## Release Notes
 
 ### 2.3-64 (17 July 2021)
-* Added one new exercise Extra/Pattern CGECGEC 'Ooh' (Full version only).
+* Added one new exercise Extra/Pattern CGECGEC 'Ooh' (paid version only).
 
 ### 2.3-63 (21 Mar 2021)
 * Bugfixed the Play/Pause button
