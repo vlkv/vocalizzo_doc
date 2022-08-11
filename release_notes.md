@@ -1,9 +1,9 @@
 ## Release Notes
 
 ### 2.4-67 (12 August 2022)
+* Implemented 'Autoplay playlist' playback mode (paid version only).
 * Remembering user settings for the tempo BPM per each exercise.
-* Added new exercise: Extra/Fifth (minor) 'Mee may mah moh mooh' (to the paid version only).
-* Implemented 'Autoplay playlist' playback mode (in the paid version only).
+* Added new exercise: Extra/Fifth (minor) 'Mee may mah moh mooh' (paid version only).
 
 ### 2.3-65 (17 July 2021)
 * Added one new exercise Extra/Pattern CGECGEC 'Ooh' (to the paid version only).
