@@ -1,7 +1,7 @@
 ## Release Notes
 
 ### 2.4-66 (11 August 2022)
-* Remember user settings for the tempo BPM per each exercise.
+* Remembering user settings for the tempo BPM per each exercise.
 * Added new exercise: Extra/Fifth (minor) 'Mee may mah moh mooh' (to the paid version only).
 
 ### 2.3-65 (17 July 2021)
