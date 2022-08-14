@@ -1,9 +1,13 @@
 ## Release Notes
 
-### 2.4-67 (12 August 2022)
+### 2.4-68 (14 August 2022)
 * Implemented 'Autoplay playlist' playback mode (paid version only).
 * Remembering user settings for the tempo BPM per each exercise.
 * Added new exercise: Extra/Fifth (minor) 'Mee may mah moh mooh' (paid version only).
+* Displaying disabled paid exercises in the Lite version of the app so that users can better know what
+  they can get after purchasing the Full version.
+* Fixed a bug with an incorrect usage of RecyclerView.Adapter in PlaylistActivity that could cause the Lite 
+  app version to crash.
 
 ### 2.3-65 (17 July 2021)
 * Added one new exercise Extra/Pattern CGECGEC 'Ooh' (to the paid version only).
